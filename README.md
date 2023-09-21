@@ -1,2 +1,5 @@
 # osn-custom-flag
-Custom flags requires for osu subdivide nations
+
+Custom flags required for [osu subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations)
+
+[Discord](https://discord.gg/YjH34wpadx)
