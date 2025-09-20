@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="500"
+   width="750"
+   version="1.1"
+   id="svg1201"
+   sodipodi:docname="Flaf of Guyana (Altverse II).svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview41446"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.782"
+     inkscape:cx="409.20716"
+     inkscape:cy="250.63939"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1201" />
+  <metadata
+     id="metadata1207">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1205" />
+  <path
+     d="M 0,0 V 500 H 750 V 0 Z"
+     fill="#ffffff"
+     id="path359"
+     style="fill:#ce1126;fill-opacity:1" />
+  <path
+     style="stroke-width:125;fill:#009e49;fill-opacity:1"
+     d="M 0,0 H 375 V 500 H 750 Z M 750,0 V 250 H 0 v 250 z"
+     id="path357" />
+  <path
+     sodipodi:type="star"
+     style="fill:#fcd116;fill-opacity:1;stroke-width:7.55906;stroke-linecap:round;paint-order:stroke fill markers"
+     id="path74958"
+     inkscape:flatsided="false"
+     sodipodi:sides="5"
+     sodipodi:cx="368.28644"
+     sodipodi:cy="244.24551"
+     sodipodi:r1="63.179638"
+     sodipodi:r2="25.271854"
+     sodipodi:arg1="0.94348813"
+     sodipodi:arg2="1.5718067"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 405.37084,295.39641 -37.10994,-25.87905 -37.16214,25.80401 13.14484,-43.29071 -36.02481,-27.36943 45.23389,-0.87607 14.89759,-42.71925 14.81124,42.74926 45.23203,0.96748 -36.08004,27.29658 z"
+     inkscape:transform-center-x="-0.041000658"
+     inkscape:transform-center-y="-9.9660483"
+     transform="matrix(1.6583537,4.2401584e-4,-4.2401584e-4,1.6583537,-235.67025,-149.192)" />
+</svg>

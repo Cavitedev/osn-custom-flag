@@ -1,0 +1,61 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="602" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_272">
+   <g stroke="null" transform="matrix(1.83001 0 0 1.81495 -843.29 -525.748)" id="svg_255">
+    <g stroke="null" id="svg_256">
+     <g stroke="null" id="svg_257">
+      <radialGradient stroke="null" gradientUnits="userSpaceOnUse" gradientTransform="translate(-50.2743 -5.68434e-14) translate(0 -50.1404) translate(600.919 0) translate(0 372.813) matrix(0.8667 0 0 0.8667 10.3374 10.0698)" r="94.4476" cy="69.3845" cx="75.3054" id="svg_253">
+       <stop stroke="null" stop-color="#8AC1E9" offset="0.04"/>
+       <stop stroke="null" stop-color="#019CDB" offset="0.415"/>
+       <stop stroke="null" stop-color="#385072" offset="0.81"/>
+      </radialGradient>
+      <path stroke="null" id="svg_258" d="m672.644592,429.972168c5.400024,-8.700012 8.5,-18.900024 8.5,-29.800018c0,-31.299988 -25.400024,-56.600006 -56.599976,-56.600006c-31.300049,0 -56.600037,25.400024 -56.600037,56.600006c0,11.399994 3.400024,22 9.200012,30.899994c19.799988,-12.199982 59.700012,-29.599976 95.5,-1.099976z" fill="url(#svg_253)"/>
+      <radialGradient stroke="null" gradientUnits="userSpaceOnUse" gradientTransform="translate(-50.2743 -5.68434e-14) translate(0 -50.1404) translate(600.919 0) translate(0 372.813) matrix(0.8667 0 0 0.8667 10.3374 10.0698)" r="112.498" cy="66.7932" cx="74.1064" id="svg_252">
+       <stop stroke="null" stop-color="#98C21F" offset="0.32"/>
+       <stop stroke="null" stop-color="#007045" offset="0.83"/>
+      </radialGradient>
+      <path stroke="null" id="svg_259" d="m674.044617,427.67215c-11.5,-11.699982 -28.700012,-19.100006 -47.800049,-19.100006c-20.299988,0 -38.399963,8.399994 -49.899963,21.300018c10,16.099976 27.799988,26.899994 48.200012,26.899994c21.299988,0 39.799988,-11.700012 49.5,-29.100006z" fill="url(#svg_252)"/>
+      <g stroke="null" id="svg_260">
+       <radialGradient stroke="null" gradientUnits="userSpaceOnUse" gradientTransform="translate(-50.2743 -5.68434e-14) translate(0 -50.1404) translate(600.919 0) translate(0 372.813) matrix(0.8667 0 0 0.8667 10.3374 10.0698)" r="112.5602" cy="66.7951" cx="74.0056" id="svg_251">
+        <stop stroke="null" stop-color="#98C21F" offset="0.38"/>
+        <stop stroke="null" stop-color="#48645A" offset="1"/>
+       </radialGradient>
+       <path stroke="null" id="svg_261" d="m626.244568,393.472168c0,-0.900024 -0.799988,-1.700012 -1.699951,-1.700012l0,0c-0.900024,0 -1.700012,0.799988 -1.700012,1.700012l0,20.199982c0,0.899994 0.799988,1.700012 1.700012,1.700012l0,0c0.899963,0 1.699951,-0.800018 1.699951,-1.700012l0,-20.199982z" fill="url(#svg_251)"/>
+       <g stroke="null" id="svg_262">
+        <radialGradient stroke="null" gradientUnits="userSpaceOnUse" gradientTransform="translate(-50.2743 -5.68434e-14) translate(0 -50.1404) translate(600.919 0) translate(0 372.813) matrix(0.8667 0 0 0.8667 10.3374 10.0698)" r="112.5759" cy="66.7929" cx="74.006" id="svg_250">
+         <stop stroke="null" stop-color="#98C21F" offset="0.38"/>
+         <stop stroke="null" stop-color="#48645A" offset="1"/>
+        </radialGradient>
+        <path stroke="null" id="svg_263" d="m621.544617,384.772156c0,0 -4.200012,-6.5 -16.200012,-1.5c0.099976,0.099976 0.700012,10.799988 8.200012,12.399994c6.599976,2.5 8.599976,-7.600006 8.599976,-7.600006" fill="url(#svg_250)"/>
+       </g>
+       <g stroke="null" id="svg_264">
+        <circle stroke="null" id="svg_265" r="7" cy="389.972146" cx="633.444596" fill="#98C21F"/>
+        <radialGradient stroke="null" gradientUnits="userSpaceOnUse" gradientTransform="translate(-50.2743 -5.68434e-14) translate(0 -50.1404) translate(600.919 0) translate(0 372.813) matrix(0.8667 0 0 0.8667 10.3374 10.0698)" r="112.5734" cy="66.7938" cx="74.0043" id="svg_249">
+         <stop stroke="null" stop-color="#98C21F" offset="0.38"/>
+         <stop stroke="null" stop-color="#48645A" offset="1"/>
+        </radialGradient>
+        <path stroke="null" id="svg_266" d="m634.344604,396.872162c0,0 7.699951,-0.500031 9.299988,-13.400024c-0.200012,0 -9.799988,-4.699982 -14.799988,1.100006c-5.400024,4.5 2.399963,11.200012 2.399963,11.200012l3.100037,1.100006z" fill="url(#svg_249)"/>
+       </g>
+      </g>
+      <path stroke="null" id="svg_267" d="m643.644592,383.472137l-15.700012,9.899994c0,0 -2.399963,-3.099976 0,-7.299988c2.400024,-4.100006 9.600037,-5.199982 15.700012,-2.600006z" fill="#669C32"/>
+      <path stroke="null" id="svg_268" d="m605.94458,383.17215l15.700012,9.899994c0,0 2.400024,-3.099976 0,-7.299988c-2.400024,-4.200012 -9.700012,-5.200012 -15.700012,-2.600006z" fill="#669C32"/>
+      <path stroke="null" id="svg_269" d="m626.44458,408.772156l0,4.100006c0,0 -0.199951,2.599976 -1.899963,2.399994c-0.900024,0 2.599976,4.099976 11.200012,-0.700012c8.599976,-4.899994 -3.900024,-6.699982 -9.300049,-5.799988z" fill="#669C32"/>
+     </g>
+    </g>
+    <g stroke="null" id="svg_270">
+     <path stroke="null" id="svg_271" d="m624.744568,466.272156c-36.599976,0 -66.399963,-29.799988 -66.399963,-66.399994c0,-36.600006 29.799988,-66.399994 66.399963,-66.399994s66.400024,29.799988 66.400024,66.399994c0,36.600006 -29.799988,66.399994 -66.400024,66.399994zm0,-128.5c-34.199951,0 -62.099976,27.799988 -62.099976,62s27.799988,62.099976 62.099976,62.099976s62.100037,-27.799988 62.100037,-62.099976s-27.900024,-62 -62.100037,-62z" fill="#669C32"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

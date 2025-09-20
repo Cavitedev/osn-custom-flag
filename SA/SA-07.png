@@ -1,0 +1,22 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="602" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_560">
+   <g stroke="null" transform="matrix(2.0131 0 0 2.12033 -950.879 -678.174)" id="svg_555">
+    <polygon stroke="null" id="svg_556" points="681.31884765625,404.4181518554688 661.0188598632812,453.9181518554688 646.7188110351562,424.4181518554688 681.31884765625,404.4181518554688 " fill="#F17023" clip-rule="evenodd" fill-rule="evenodd"/>
+    <polygon stroke="null" id="svg_557" points="563.81884765625,404.4181518554688 586.2188110351562,459.3181457519532 658.9188232421875,459.3181457519532 563.81884765625,404.4181518554688 " fill="#FDDD00" clip-rule="evenodd" fill-rule="evenodd"/>
+    <polygon stroke="null" id="svg_558" points="622.6188354492188,384.8181457519532 655.5188598632812,452.4181518554688 604.1188354492188,422.71813964843756 622.6188354492188,384.8181457519532 " fill="#F8A51B" clip-rule="evenodd" fill-rule="evenodd"/>
+    <path stroke="null" id="svg_559" d="m690.218872,389.818146l-17.200012,-1.200012l5.299988,8.700012l-31.299988,18.299988l-24,-46.799988l-22.800049,47l-47.699951,-23.200012l27.399963,66.900024c1.600037,-0.300018 3.200012,-0.200012 4.799988,0l-23.899963,-57.500031l41.399963,19.900024l20.5,-41.200012l22.800049,41.600006l34.999939,-21.600006l3.100037,5.100006l6.600037,-16z" fill="#595A5E"/>
+   </g>
+  </g>
+ </g>
+</svg>
